@@ -135,7 +135,7 @@ using namespace std;
 
 }
 
-// For com -3 
+// For com +3 
 #include <iostream>
 
 using namespace std; 
@@ -149,7 +149,7 @@ using namespace std;
 
 
 }
-// For com -3 e com Break; no 71(quando chegar ao 71 nao vai aparecer o 71 (NAO ESQUECER AS CHAVETAS))
+// For com +3 e com Break; no 71(quando chegar ao 71 nao vai aparecer o 71 (NAO ESQUECER AS CHAVETAS))
 #include <iostream>
 
 using namespace std; 
